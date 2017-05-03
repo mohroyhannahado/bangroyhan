@@ -1,7 +1,5 @@
 document.write('<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>');
 
-document.write('<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8475454954913184" data-ad-slot="3037974350" data-ad-format="auto"></ins>');
-
 <!-- sholawat fatih -->
 
 document.write('<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8855525363429940" data-ad-slot="3224857518" data-ad-format="auto"></ins>');
