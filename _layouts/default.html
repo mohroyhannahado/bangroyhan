@@ -8,6 +8,9 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+	<style>
+	.tengah{text-align: center;}
+	</style>
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -15,18 +18,16 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-        <a href="https://bangroyhan.pasti.in" class="btn" target="_blank">Home</a>
-        <a href="https://beritateknologi.id" class="btn" target="_blank">Berita</a>
-        <a href="/bangroyhan/hosting-terbaik.html" class="btn" target="_blank">Hosting Terbaik</a>
+        <a href="/bangroyhan/" class="btn">Home</a>
+        <a href="https://beritateknologi.id" class="btn" target="_blank">Berita Teknologi</a>
+        <a href="/bangroyhan/hosting-terbaik.html" class="btn">Hosting Terbaik</a>
     </header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
-
+<hr />
+<p class="tengah"><img src="https://s09.flagcounter.com/count2/mohroyhannahado/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_70/viewers_BangRoyHan/labels_1/pageviews_1/flags_0/percent_0/" alt="statistik bangroyhan"></p>
       <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
         <span class="site-footer-credits">Created by <a href="https://www.pastiin.com">Pastiin Dulu</a>.</span>
       </footer>
     </main>
