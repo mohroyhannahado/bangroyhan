@@ -17,5 +17,8 @@ Bangroyhan tidak menjamin yang ada di halaman github bangroy masih work atau tid
 - [Bang Roy Han](https://bangroyhan.pasti.in) - Blog pribadi bangroyhan.
 - [Octa Indonesia](https://octa.or.id) - Octa Indonesia.
 - [FBS Indonesia](https://fbs.or.id) - FBS Indonesia.
+- [Analisa Trading Forex](https://analisatradingforex.com) - Website analisa trading harian.
+- [VPS Centos](https://vpscentos.com) - Situs informasi seputar dunia hosting dan domain.
 - [Hosting Terbaik](https://niagahoster.my.id) - Hosting Terbaik.
 - [Slawi Ayu](https://slawiayu.com) - Portal berita tegal, brebes, pemalang.
+- [Terbaik se Indonesia](https://terbaik.se) - Pusat situs terbaik se Indonesia.
